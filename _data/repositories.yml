@@ -1,0 +1,9 @@
+github_users:
+  - kjendseth
+
+repo_description_lines_max: 2
+
+github_repos:
+  - kjendseth/kjendseth.github.io
+  - kjendseth/CBPD_MD_simulations
+  - kjendseth/easyAF3

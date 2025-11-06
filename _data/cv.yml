@@ -1,0 +1,28 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Åsmund Røhr Kjendseth
+    - name: Role
+      value: Associate Professor (Førsteamanuensis), Faculty of Chemistry, Biotechnology and Food Science (KBM), Norwegian University of Life Sciences (NMBU)
+    - name: Email
+      value: asmund.rohr@nmbu.no
+    - name: Research Areas
+      value: Physical biochemistry, spectroscopy, redox enzymology, lytic polysaccharide monooxygenases
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Associate Professor
+      institution: Faculty of Chemistry, Biotechnology and Food Science (KBM), Norwegian University of Life Sciences (NMBU)
+      year: Current
+      description:
+        - Lead the Kjendseth Lab exploring LPMO-mediated biomass conversion through spectroscopy and computation.
+        - Supervise doctoral and master's researchers across enzymology, spectroscopy, and computational chemistry.
+
+- title: Research Interests
+  type: list
+  contents:
+    - Lytic polysaccharide monooxygenases and copper enzyme catalysis
+    - Biomass depolymerization and sustainable bioprocessing
+    - Spectroscopy and computational chemistry of redox enzymes
