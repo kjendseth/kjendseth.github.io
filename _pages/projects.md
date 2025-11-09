@@ -13,9 +13,13 @@ We operate at the interface of biology and physics to understand how metalloenzy
 
 ## Current focus areas
 
-### COOFIX · FRIPRO (Research Council of Norway, 2020–2024)
+### COOFIX · FRIPRO (Research Council of Norway, 2020–2026)
 
 Designing and evolving copper enzymes that reduce CO<sub>2</sub>. We combine directed evolution, structural biology, and electronic-structure calculations to map new catalytic pathways.
+
+### CUBE – ERC Synergy Grant (2020–2026)
+
+Joint effort on Cu-based catalysts for C–H activation and selective oxidation. We co-lead spectroscopy, mechanistic modelling, and data pipelines that explain how catalyst microenvironments govern reactivity.
 
 ### Lytic polysaccharide monooxygenases
 
@@ -31,7 +35,6 @@ Protein crystallography, multi-scale simulations, and in-house workflows that co
 
 ## Finalized collaborative projects
 
-- **CUBE – ERC Synergy Grant (2020–2025):** Cu-based catalyst design for C–H activation; contributed spectroscopy and mechanistic insight.
 - **OXYMOD – Digital Life Norway (2017–2022):** Partnered on oxidative enzyme cascades for lignocellulose conversion.
 - **FRIPRO 240967 (2015–2019):** Led the combined computational/experimental campaign that still underpins our LPMO toolset.
 
