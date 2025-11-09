@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blog/
-title: field notes
+title: daily life
 nav: true
 nav_order: 1
 galleries:

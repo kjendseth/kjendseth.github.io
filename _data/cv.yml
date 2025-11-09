@@ -1,20 +1,20 @@
-- title: Profile
+- title: profile
   type: map
   contents:
     - name: Name
       value: Åsmund Røhr Kjendseth
     - name: Roles
-      value: Head of Education (Pro-Dean) & Section Leader Chemistry, Associate Professor of Biophysical Chemistry, NMBU
+      value: Head of Education (Pro-Dean) & Section Leader Chemistry, Associate Professor of Biophysical Chemistry (KBM, NMBU)
     - name: Email
       value: asmund.rohr@nmbu.no
-    - name: Research Areas
+    - name: Research areas
       value: Metalloenzymes, spectroscopy, structural biology, computational chemistry
     - name: ORCID
       value: 0000-0002-4956-4865
-    - name: Web
+    - name: Website
       value: https://www.kjendseth-lab.org
 
-- title: Education
+- title: education
   type: time_table
   contents:
     - title: PhD, Biochemistry
@@ -24,7 +24,7 @@
       institution: Department of Biosciences, University of Oslo, Norway
       year: 2001
 
-- title: Positions
+- title: positions
   type: time_table
   contents:
     - title: Head of Education (Pro-Dean) & Section Leader Chemistry
@@ -36,8 +36,8 @@
     - title: Principal Investigator / Researcher
       institution: KBM, NMBU
       year: 2015–2020
-    - title: Postdoctoral Fellow
-      institution: KBM, NMBU (2014–2015); ESRF Grenoble (2014); Department of Biosciences, University of Oslo (2012–2014 & 2010)
+    - title: Postdoctoral Fellowships
+      institution: KBM NMBU (2014–2015); ESRF Grenoble (2014); Department of Biosciences, University of Oslo (2012–2014 & 2010)
       year: 2010–2015
     - title: Research Manager / Senior Scientist
       institution: Keep-it Technologies AS, Norway
@@ -46,62 +46,89 @@
       institution: Institute of Physics, University of Lübeck, Germany
       year: 2003–2004
 
-- title: Project management & grants
+- title: project management & grants
   type: time_table
   contents:
-    - title: COOFIX – Evolving novel CO₂-reducing enzymes
+    - title: COOFIX – Evolving novel CO₂-reducing enzymes (FRIPRO)
       year: 2019–2026
       description:
-        - Principal Investigator, Research Council of Norway (FRIPRO)
+        - Principal Investigator, Research Council of Norway
     - title: CUBE – ERC Synergy Grant
       year: 2019–2026
       description:
         - Co-Principal Investigator
-    - title: OXYMOD · Digital Life Norway
+    - title: ERC StG Application Improvement (CoG preparation)
+      year: 2017–2019
+      description:
+        - Principal Investigator, 500 kNOK
+    - title: OXYMOD – Optimised oxidative enzyme systems
       year: 2017–2022
       description:
-        - Partner on oxidative enzyme platforms
-    - title: Strategic & talent development grants
+        - Partner, Digital Life Norway
+    - title: Talent Development & Strategic Grants (NMBU)
       year: 2016–2020
       description:
-        - NMBU funding totalling 2,780 kNOK
+        - 2,780 kNOK total personal support
     - title: Resolving molecular mechanisms of biomass degrading enzymes
       year: 2015–2019
       description:
         - Principal Investigator, Research Council of Norway (FRINATEK)
-    - title: NOTUR / Sigma2 HPC allocations
+    - title: NOTUR / Sigma2 High-Performance Computing allocations
       year: 2015–
       description:
-        - ~400,000 CPUh annually for QM/MM and MD simulations
+        - ~400,000 CPUh annually for QM/MM and MD
 
-- title: Leadership & service
-  type: list
-  contents:
-    - UiO Education Leadership Programme (ULP) · 2025
-    - Study Program Leader, Chemistry Education, KBM NMBU · 2020–
-    - Head of Education, KBM NMBU · 2022–2023
-    - Leader & board member, Norwegian Biochemical Society – Ås · 2017–
-    - UiO Research Leadership Programme (RLP Start) · 2017
-    - Board member, Faculty of Veterinary Medicine and Biosciences, NMBU · 2016–2017
-
-- title: Supervision
+- title: supervision
   type: map
   contents:
-    - name: Main-supervised MSc students
+    - name: MSc (main supervisor)
       value: 11
-    - name: Main-supervised PhD students
+    - name: PhD (main supervisor)
       value: 3 (current and completed)
-    - name: Additional contributions
-      value: Co-supervisor on multiple PhD projects and mentor for postdoctoral fellows.
+    - name: Additional roles
+      value: Mentor for postdocs and co-supervisor on multiple PhD projects
 
-- title: Career breaks
+- title: leadership & service
+  type: list
+  contents:
+    - UiO Education Leadership Programme (ULP), 2025
+    - Study Program Leader, Chemistry Education, KBM NMBU (2020–)
+    - Head of Education, KBM NMBU (2022–2023)
+    - Leader & Board Member, Norwegian Biochemical Society – Ås (2017–)
+    - UiO Research Leadership Programme – RLP Start (2017)
+    - Board member, Faculty of Veterinary Medicine and Biosciences, NMBU (2016–2017)
+
+- title: career breaks
   type: time_table
   contents:
-    - title: Parental leave
+    - title: Parental leave (two periods)
       year: 2015 & 2016
       description:
-        - Two periods, three months each.
+        - Three months each
     - title: Medical leave
       year: 2004–2005
       description:
-        - Ten months of treatment; fully recovered.
+        - Ten months of treatment; fully recovered
+
+- title: invited presentations (selection)
+  type: list
+  contents:
+    - 2025 · Oslo University Hospital, Dept. of Medical Biochemistry
+    - 2025 · Hylleraas Centre for Quantum Molecular Sciences, UiO
+    - 2024 · LPMO symposium, University of York
+    - 2022 · Chemistry Union, University of Marseille
+    - 2021 · Department of Chemistry, University of Lisboa
+    - 2019 · International Conference on Biological Inorganic Chemistry, Interlaken
+
+- title: patents
+  type: list
+  contents:
+    - EP2697641 A1 “Time-temperature indicator system” (granted across AU, JP, CN, NO)
+    - EP2697617 A2 “Time-temperature indicator system I” (granted across AU, CH, DE, FR, UK, JP, CN, NO)
+    - Two additional patents pending
+
+- title: innovation & industry collaboration
+  type: list
+  contents:
+    - Keep-it Technologies AS (2008–2012) – Invented and developed the temperature-sensitive chemistry behind the company’s flagship freshness indicator; served as Research Manager and led IPR efforts.
+    - Orphan Diagnostics AS (2015– ) – Lead enzyme discovery and optimisation for bedside toxic alcohol diagnostics; prototype currently in clinical testing.
