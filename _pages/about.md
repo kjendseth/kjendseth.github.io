@@ -9,10 +9,10 @@ profile:
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Associate Professor</p>
-    <p>Faculty of Chemistry, Biotechnology and Food Science</p>
-    <p>Norwegian University of Life Sciences (NMBU)</p>
-    <p>P.O. Box 5003, NO-1432 Ås, Norway</p>
+    <p>Head of Education (Pro-Dean), KBM</p>
+    <p>Section Leader Chemistry</p>
+    <p>Associate Professor of Biophysical Chemistry</p>
+    <p>Christian Magnus Falsens vei 18, 1433 Ås</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,19 +28,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Åsmund Røhr Kjendseth is an associate professor of physical biochemistry at the Norwegian University of Life Sciences (NMBU), where he leads the Kjendseth Lab within the Faculty of Chemistry, Biotechnology and Food Science (KBM). His team combines spectroscopy, structural biology, and computational chemistry to understand how lytic polysaccharide monooxygenases (LPMOs) and other redox-active enzymes transform recalcitrant biomass.
+Åsmund Røhr Kjendseth leads the Kjendseth Lab at NMBU’s Faculty of Chemistry, Biotechnology and Food Science, where he also serves as Head of Education (Pro-Dean) and Section Leader for Chemistry. We mix robotics, spectroscopy, and computation to explain how redox enzymes remodel biomass and point the way to resilient biocatalysts.
 
 ### Research focus
 
-* Redox chemistry and reaction pathways of LPMOs across bacterial systems  
-* Spectroscopic probes for enzyme intermediates and oxygen activation  
-* Computational workflows that integrate quantum chemical and molecular simulations with experiment  
-* Enzyme engineering strategies for sustainable biomass valorization
+- Redox chemistry and reaction pathways of LPMOs across bacterial systems  
+- Spectroscopic probes for enzyme intermediates and oxygen activation  
+- Computational workflows that integrate quantum chemical and molecular simulations with experiment  
+- Enzyme engineering strategies for sustainable biomass valorization
 
 ### Highlights
 
-* Leads collaborative projects with NMBU and Nordic partners on biofilm regulation and enzymatic biomass conversion.  
-* Regular speaker at the Hylleraas Centre for Quantum Molecular Sciences, most recently presenting *How experiments drive our understanding of LPMO reactivity* (Oslo, February 2025).  
-* Supervises a growing team of PhD candidates and postdocs working at the interface of structural biology and biocatalysis.
+- Leads collaborative projects with NMBU and Nordic partners on carbon-negative catalysis and enzymatic biomass conversion.  
+- Co-PI on national and ERC-funded programmes (COOFIX, CUBE) that explore copper enzymes for new chemistries.  
+- Builds multidisciplinary teams that span robotics, spectroscopy, structural biology, and computation.
 
-I am always happy to hear from potential collaborators and prospective students who are excited about enzyme mechanisms, spectroscopy, and computational chemistry.
+We welcome collaboration requests—from spectroscopy time-sharing to joint supervision of students excited about enzyme mechanisms, spectroscopy, and computational chemistry.

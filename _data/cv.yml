@@ -1,28 +1,107 @@
-- title: General Information
+- title: Profile
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Åsmund Røhr Kjendseth
-    - name: Role
-      value: Associate Professor (Førsteamanuensis), Faculty of Chemistry, Biotechnology and Food Science (KBM), Norwegian University of Life Sciences (NMBU)
+    - name: Roles
+      value: Head of Education (Pro-Dean) & Section Leader Chemistry, Associate Professor of Biophysical Chemistry, NMBU
     - name: Email
       value: asmund.rohr@nmbu.no
     - name: Research Areas
-      value: Physical biochemistry, spectroscopy, redox enzymology, lytic polysaccharide monooxygenases
+      value: Metalloenzymes, spectroscopy, structural biology, computational chemistry
+    - name: ORCID
+      value: 0000-0002-4956-4865
+    - name: Web
+      value: https://www.kjendseth-lab.org
 
-- title: Experience
+- title: Education
   type: time_table
   contents:
-    - title: Associate Professor
-      institution: Faculty of Chemistry, Biotechnology and Food Science (KBM), Norwegian University of Life Sciences (NMBU)
-      year: Current
-      description:
-        - Lead the Kjendseth Lab exploring LPMO-mediated biomass conversion through spectroscopy and computation.
-        - Supervise doctoral and master's researchers across enzymology, spectroscopy, and computational chemistry.
+    - title: PhD, Biochemistry
+      institution: Department of Biosciences, University of Oslo, Norway
+      year: 2010
+    - title: Cand. scient., Biochemistry
+      institution: Department of Biosciences, University of Oslo, Norway
+      year: 2001
 
-- title: Research Interests
+- title: Positions
+  type: time_table
+  contents:
+    - title: Head of Education (Pro-Dean) & Section Leader Chemistry
+      institution: Faculty of Chemistry, Biotechnology, and Food Science (KBM), NMBU
+      year: 2025–
+    - title: Associate Professor & Group Leader Chemistry
+      institution: KBM, NMBU
+      year: 2020–
+    - title: Principal Investigator / Researcher
+      institution: KBM, NMBU
+      year: 2015–2020
+    - title: Postdoctoral Fellow
+      institution: KBM, NMBU (2014–2015); ESRF Grenoble (2014); Department of Biosciences, University of Oslo (2012–2014 & 2010)
+      year: 2010–2015
+    - title: Research Manager / Senior Scientist
+      institution: Keep-it Technologies AS, Norway
+      year: 2008–2012
+    - title: Visiting PhD Fellow
+      institution: Institute of Physics, University of Lübeck, Germany
+      year: 2003–2004
+
+- title: Project management & grants
+  type: time_table
+  contents:
+    - title: COOFIX – Evolving novel CO₂-reducing enzymes
+      year: 2019–2026
+      description:
+        - Principal Investigator, Research Council of Norway (FRIPRO)
+    - title: CUBE – ERC Synergy Grant
+      year: 2019–2026
+      description:
+        - Co-Principal Investigator
+    - title: OXYMOD · Digital Life Norway
+      year: 2017–2022
+      description:
+        - Partner on oxidative enzyme platforms
+    - title: Strategic & talent development grants
+      year: 2016–2020
+      description:
+        - NMBU funding totalling 2,780 kNOK
+    - title: Resolving molecular mechanisms of biomass degrading enzymes
+      year: 2015–2019
+      description:
+        - Principal Investigator, Research Council of Norway (FRINATEK)
+    - title: NOTUR / Sigma2 HPC allocations
+      year: 2015–
+      description:
+        - ~400,000 CPUh annually for QM/MM and MD simulations
+
+- title: Leadership & service
   type: list
   contents:
-    - Lytic polysaccharide monooxygenases and copper enzyme catalysis
-    - Biomass depolymerization and sustainable bioprocessing
-    - Spectroscopy and computational chemistry of redox enzymes
+    - UiO Education Leadership Programme (ULP) · 2025
+    - Study Program Leader, Chemistry Education, KBM NMBU · 2020–
+    - Head of Education, KBM NMBU · 2022–2023
+    - Leader & board member, Norwegian Biochemical Society – Ås · 2017–
+    - UiO Research Leadership Programme (RLP Start) · 2017
+    - Board member, Faculty of Veterinary Medicine and Biosciences, NMBU · 2016–2017
+
+- title: Supervision
+  type: map
+  contents:
+    - name: Main-supervised MSc students
+      value: 11
+    - name: Main-supervised PhD students
+      value: 3 (current and completed)
+    - name: Additional contributions
+      value: Co-supervisor on multiple PhD projects and mentor for postdoctoral fellows.
+
+- title: Career breaks
+  type: time_table
+  contents:
+    - title: Parental leave
+      year: 2015 & 2016
+      description:
+        - Two periods, three months each.
+    - title: Medical leave
+      year: 2004–2005
+      description:
+        - Ten months of treatment; fully recovered.

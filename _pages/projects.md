@@ -2,64 +2,36 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Current research themes from the Kjendseth Lab.
+description: Snapshot of what we are building, from metalloenzymes to spectroscopy platforms.
 nav: true
 nav_order: 3
-display_categories: [research]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Research overview
+We operate at the interface of biology and physics to understand how metalloenzymes control redox chemistry. Our strategy mixes molecular biology, structural biology, spectroscopy, and computation so we can connect macromolecular structure to electronic structure.
 
-{% else %}
+## Current focus areas
 
-<!-- Display projects without categories -->
+### COOFIX · FRIPRO (Research Council of Norway, 2020–2024)
+Designing and evolving copper enzymes that reduce CO<sub>2</sub>. We combine directed evolution, structural biology, and electronic-structure calculations to map new catalytic pathways.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+### Lytic polysaccharide monooxygenases
+Mechanistic studies of AA9/AA14 LPMOs and related type-3 copper proteins. We resolve hole hopping, substrate binding, and reductant control using spectroscopy, QM/MM, and MD simulations.
 
-  <!-- Generate cards for each project -->
+### Flavoenzymes
+Flavodoxins and flavin reductases that shuttle electrons to LPMOs. We probe their fast redox cycles and compatibility with biorefinery process streams.
 
-{% if page.horizontal %}
+### Structural biology & computational chemistry
+Protein crystallography, multi-scale simulations, and in-house workflows that couple QM, MM, and machine-learned potentials to experimental observables.
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+## Finalized collaborative projects
+
+- **CUBE – ERC Synergy Grant (2020–2025):** Cu-based catalyst design for C–H activation; contributed spectroscopy and mechanistic insight.
+- **OXYMOD – Digital Life Norway (2017–2022):** Partnered on oxidative enzyme cascades for lignocellulose conversion.
+- **FRIPRO 240967 (2015–2019):** Led the combined computational/experimental campaign that still underpins our LPMO toolset.
+
+## Methods toolbox
+
+- **Spectroscopy:** EPR, Raman, UV-Vis, fluorescence, stopped-flow kinetics.
+- **Robotics & automation:** Custom liquid-handling for crystallization and enzyme evolution.
+- **Computation:** High-performance QM/MM, MD, and bespoke analysis pipelines on Sigma2 and local GPU clusters.
