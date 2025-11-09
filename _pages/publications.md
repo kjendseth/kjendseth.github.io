@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 {% assign pubs = site.data.publications %}
+
 <div class="publications">
   {% for pub in pubs %}
   <div class="card border-0 shadow-sm mb-3">

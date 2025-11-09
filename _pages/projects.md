@@ -8,20 +8,25 @@ nav_order: 3
 ---
 
 ## Research overview
+
 We operate at the interface of biology and physics to understand how metalloenzymes control redox chemistry. Our strategy mixes molecular biology, structural biology, spectroscopy, and computation so we can connect macromolecular structure to electronic structure.
 
 ## Current focus areas
 
 ### COOFIX · FRIPRO (Research Council of Norway, 2020–2024)
+
 Designing and evolving copper enzymes that reduce CO<sub>2</sub>. We combine directed evolution, structural biology, and electronic-structure calculations to map new catalytic pathways.
 
 ### Lytic polysaccharide monooxygenases
+
 Mechanistic studies of AA9/AA14 LPMOs and related type-3 copper proteins. We resolve hole hopping, substrate binding, and reductant control using spectroscopy, QM/MM, and MD simulations.
 
 ### Flavoenzymes
+
 Flavodoxins and flavin reductases that shuttle electrons to LPMOs. We probe their fast redox cycles and compatibility with biorefinery process streams.
 
 ### Structural biology & computational chemistry
+
 Protein crystallography, multi-scale simulations, and in-house workflows that couple QM, MM, and machine-learned potentials to experimental observables.
 
 ## Finalized collaborative projects

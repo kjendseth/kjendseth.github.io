@@ -43,6 +43,7 @@ galleries:
 ---
 
 {% for gallery in page.galleries %}
+
 <section class="mb-5">
   <h2>{{ gallery.title }}</h2>
   <p>{{ gallery.description }}</p>

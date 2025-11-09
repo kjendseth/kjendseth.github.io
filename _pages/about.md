@@ -32,15 +32,15 @@ latest_posts:
 
 ### Research focus
 
-- Redox chemistry and reaction pathways of LPMOs across bacterial systems  
-- Spectroscopic probes for enzyme intermediates and oxygen activation  
-- Computational workflows that integrate quantum chemical and molecular simulations with experiment  
+- Redox chemistry and reaction pathways of LPMOs across bacterial systems
+- Spectroscopic probes for enzyme intermediates and oxygen activation
+- Computational workflows that integrate quantum chemical and molecular simulations with experiment
 - Enzyme engineering strategies for sustainable biomass valorization
 
 ### Highlights
 
 - Leads collaborative projects with NMBU and Nordic partners on carbon-negative catalysis and enzymatic biomass conversion.  
-- Co-PI on national and ERC-funded programmes (COOFIX, CUBE) that explore copper enzymes for new chemistries.  
+- Principal Investigator on the FRIPRO-funded COOFIX programme and co-PI on the ERC Synergy grant CUBE.  
 - Builds multidisciplinary teams that span robotics, spectroscopy, structural biology, and computation.
 
 We welcome collaboration requests—from spectroscopy time-sharing to joint supervision of students excited about enzyme mechanisms, spectroscopy, and computational chemistry.

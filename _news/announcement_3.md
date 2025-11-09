@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-New publication out in *Biochemistry* detailing the activity of a cryptic Pseudomonas aeruginosa prophage endolysin (doi:[10.1021/acs.biochem.5c00142](https://doi.org/10.1021/acs.biochem.5c00142)). Great work by Per Kristian Thorén Edvardsen, Andrea Nikoline Englund, and collaborators across KBM and beyond.
+New publication out in _Biochemistry_ detailing the activity of a cryptic Pseudomonas aeruginosa prophage endolysin (doi:[10.1021/acs.biochem.5c00142](https://doi.org/10.1021/acs.biochem.5c00142)). Great work by Per Kristian Thorén Edvardsen, Andrea Nikoline Englund, and collaborators across KBM and beyond.

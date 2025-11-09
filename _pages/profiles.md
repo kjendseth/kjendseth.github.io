@@ -56,9 +56,9 @@ nav_order: 7
 
 ## Alumni highlights
 
-- **Andrea Englund (PhD 2024)** – Engineer, Department of Pharmacy, University of Oslo.  
-- **Gustavo de Almeida Santos (Postdoc 2020–2022)** – Engineer at PEP, KBM, NMBU.  
-- **Ingvild Isaksen (PhD 2019)** – Researcher, Norwegian Defence Research Establishment (FFI).  
+- **Andrea Englund (PhD 2024)** – Engineer, Department of Pharmacy, University of Oslo.
+- **Gustavo de Almeida Santos (Postdoc 2020–2022)** – Engineer at PEP, KBM, NMBU.
+- **Ingvild Isaksen (PhD 2019)** – Researcher, Norwegian Defence Research Establishment (FFI).
 - **Bastien Bissaro (Postdoc 2016–2018)** – Senior researcher, INRAE, Marseille.
 
 We have supervised 11 MSc students as main supervisor and contributed to multiple PhD projects as co-supervisor.
