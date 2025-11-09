@@ -6,8 +6,8 @@ subtitle: <a href='https://www.nmbu.no/en'>Norwegian University of Life Sciences
 
 profile:
   align: right
-  image: profile.jpg
-  image_circular: true # crops the image to make it circular
+  image: profile-front.png
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Head of Education (Pro-Dean), KBM</p>
     <p>Section Leader Chemistry</p>
@@ -39,8 +39,8 @@ latest_posts:
 
 ### Highlights
 
-- Leads collaborative projects with NMBU and Nordic partners on carbon-negative catalysis and enzymatic biomass conversion.  
-- Principal Investigator on the FRIPRO-funded COOFIX programme and co-PI on the ERC Synergy grant CUBE.  
+- Leads collaborative projects with NMBU and Nordic partners on carbon-negative catalysis and enzymatic biomass conversion.
+- Principal Investigator on the FRIPRO-funded COOFIX programme and co-PI on the ERC Synergy grant CUBE.
 - Builds multidisciplinary teams that span robotics, spectroscopy, structural biology, and computation.
 
 We welcome collaboration requests—from spectroscopy time-sharing to joint supervision of students excited about enzyme mechanisms, spectroscopy, and computational chemistry.
