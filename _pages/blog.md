@@ -8,38 +8,38 @@ galleries:
   - title: Lab life at NMBU
     description: Snapshots from daily research—robots, spectroscopy rigs, and the campus that hosts them.
     images:
-      - assets/img/gallery/nmbu/campus.jpeg
-      - assets/img/gallery/nmbu/epr_lab.jpeg
-      - assets/img/gallery/nmbu/voltammetry.jpeg
-      - assets/img/gallery/nmbu/3d_printing.jpeg
-      - assets/img/gallery/nmbu/ot_2_robot_protein_crystallization.jpeg
-      - assets/img/gallery/nmbu/homebuilt_robot.jpeg
-      - assets/img/gallery/nmbu/homebuilt_robot_working.jpeg
-      - assets/img/gallery/nmbu/building_robot.jpeg
-      - assets/img/gallery/nmbu/robot.jpeg
-      - assets/img/gallery/nmbu/eika.jpeg
-      - assets/img/gallery/nmbu/outdoors.jpeg
+      - assets/img/gallery/nmbu/campus.jpg
+      - assets/img/gallery/nmbu/epr_lab.jpg
+      - assets/img/gallery/nmbu/voltammetry.jpg
+      - assets/img/gallery/nmbu/3d_printing.jpg
+      - assets/img/gallery/nmbu/ot_2_robot_protein_crystallization.jpg
+      - assets/img/gallery/nmbu/homebuilt_robot.jpg
+      - assets/img/gallery/nmbu/homebuilt_robot_working.jpg
+      - assets/img/gallery/nmbu/building_robot.jpg
+      - assets/img/gallery/nmbu/robot.jpg
+      - assets/img/gallery/nmbu/eika.jpg
+      - assets/img/gallery/nmbu/outdoors.jpg
   - title: Beamtime & Grenoble trips
     description: ESRF nights, Alpine mornings, and every group selfie we remembered to take.
     images:
-      - assets/img/gallery/grenoble/esrf_robot.jpeg
-      - assets/img/gallery/grenoble/group_work_esrf.jpeg
-      - assets/img/gallery/grenoble/lab_esrf.jpeg
-      - assets/img/gallery/grenoble/lab_2_esrf.jpeg
-      - assets/img/gallery/grenoble/lab_3_esrf.jpeg
-      - assets/img/gallery/grenoble/laser_esrf.jpeg
-      - assets/img/gallery/grenoble/group_esrf_1.jpeg
-      - assets/img/gallery/grenoble/group_grenoble.jpeg
-      - assets/img/gallery/grenoble/group_alps_grenoble.jpeg
-      - assets/img/gallery/grenoble/group_alps.jpeg
-      - assets/img/gallery/grenoble/alps_grenoble.jpeg
-      - assets/img/gallery/grenoble/me_group_grenoble.jpeg
-      - assets/img/gallery/grenoble/group_collegaus_grenoble.jpeg
-      - assets/img/gallery/grenoble/group_annecy.jpeg
-      - assets/img/gallery/grenoble/food_grenoble.jpeg
-      - assets/img/gallery/grenoble/cheese_grenoble.JPG
-      - assets/img/gallery/grenoble/dessert_grenoble.jpeg
-      - assets/img/gallery/grenoble/esrf_outdoors.jpeg
+      - assets/img/gallery/grenoble/esrf_robot.jpg
+      - assets/img/gallery/grenoble/group_work_esrf.jpg
+      - assets/img/gallery/grenoble/lab_esrf.jpg
+      - assets/img/gallery/grenoble/lab_2_esrf.jpg
+      - assets/img/gallery/grenoble/lab_3_esrf.jpg
+      - assets/img/gallery/grenoble/laser_esrf.jpg
+      - assets/img/gallery/grenoble/group_esrf_1.jpg
+      - assets/img/gallery/grenoble/group_grenoble.jpg
+      - assets/img/gallery/grenoble/group_alps_grenoble.jpg
+      - assets/img/gallery/grenoble/group_alps.jpg
+      - assets/img/gallery/grenoble/alps_grenoble.jpg
+      - assets/img/gallery/grenoble/me_group_grenoble.jpg
+      - assets/img/gallery/grenoble/group_collegaus_grenoble.jpg
+      - assets/img/gallery/grenoble/group_annecy.jpg
+      - assets/img/gallery/grenoble/food_grenoble.jpg
+      - assets/img/gallery/grenoble/cheese_grenoble.jpg
+      - assets/img/gallery/grenoble/dessert_grenoble.jpg
+      - assets/img/gallery/grenoble/esrf_outdoors.jpg
 ---
 
 {% for gallery in page.galleries %}
